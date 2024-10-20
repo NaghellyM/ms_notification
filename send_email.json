@@ -1,0 +1,22 @@
+[
+    {
+        "subject": "Prueba envio correos ",
+        "content": "Ya funciona ATT:Karen",
+        "recipients": [
+            {
+                "name": "Karen",
+                "email": "naghellymoreno0610@gmail.com"
+            }
+        ]
+    },
+    {
+        "subject": "Prueba envio correos ",
+        "content": "Ya funciona ATT:Karen",
+        "recipients": [
+            {
+                "name": "Karen",
+                "email": "naghellymoreno0610@gmail.com"
+            }
+        ]
+    }
+]

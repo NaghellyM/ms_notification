@@ -1,1 +1,41 @@
-[]
+[
+    {
+        "id": 1,
+        "name": "Azul",
+        "password": "123",
+        "email": "karen@gmail.com",
+        "nickname": "AA"
+    },
+    {
+        "id": 3,
+        "name": "Jhon",
+        "password": "12345",
+        "email": "Jhon@gmail.com",
+        "nickname": "AA"
+    },
+    {
+        "id": 4,
+        "name": "Jhon",
+        "password": "12345",
+        "email": "Jhon@gmail.com",
+        "nickname": "AA"
+    },
+    {
+        "id": 5,
+        "name": "Valentina",
+        "password": "12345",
+        "email": "Valentina@gmail.com",
+        "nickname": "AA"
+    },
+    {
+        "id": 6,
+        "name": "Valentina",
+        "password": "12345",
+        "email": "Valentina@gmail.com",
+        "nickname": "AA"
+    },
+    {
+        "chat_id": 7072338163,
+        "message": "Prueba 2 "
+    }
+]
