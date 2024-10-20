@@ -18,5 +18,45 @@
                 "email": "naghellymoreno0610@gmail.com"
             }
         ]
+    },
+    {
+        "subject": "Prueba envio correos ",
+        "content": "Ya funciona ",
+        "recipients": [
+            {
+                "name": "Dybler",
+                "email": "dylbercabrera23@hotmail.com"
+            }
+        ]
+    },
+    {
+        "subject": "Prueba envio correos ",
+        "content": "Ya funciona ",
+        "recipients": [
+            {
+                "name": "Dybler",
+                "email": "dylbercabrera23@gmail.com"
+            }
+        ]
+    },
+    {
+        "subject": "Prueba envio correos ",
+        "content": "Ya funciona ",
+        "recipients": [
+            {
+                "name": "Dybler",
+                "email": "naghellymoreno0610@gmail.com"
+            }
+        ]
+    },
+    {
+        "subject": "Prueba envio correos ",
+        "content": "Ya funciona ",
+        "recipients": [
+            {
+                "name": "Dybler",
+                "email": "dylber.cabrera47878@ucaldas.edu.co"
+            }
+        ]
     }
 ]
